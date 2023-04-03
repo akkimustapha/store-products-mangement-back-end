@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "Your_User_Name",
+        "DB_PASSWORD": "Your_Password_Name",
+        "DB_NAME": "Your_Db_Name",
+        "JWT_KEY": "YOUR_SEC_JWT"
+    }
+}
